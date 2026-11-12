@@ -1,5 +1,5 @@
 /* =========================================================
-   Aline Freire — Portfolio scripts
+   Aline Freire Souza — Portfolio scripts
    Sem dependências. Módulos:
    1. Tema claro/escuro
    2. Menu mobile
