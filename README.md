@@ -1,4 +1,4 @@
-# Aline Freire — Portfolio
+# Aline Freire Souza — Portfolio
 
 Personal portfolio website — Business Analyst & AI Automation Specialist, Dublin.
 Built with plain HTML, CSS and JavaScript. No frameworks, no build step, no external dependencies.
